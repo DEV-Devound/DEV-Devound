@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DEV-Devound
 - 💻 [Developer]
 - 🐍 Python
-- 📟J avascript + React
+- 📟 Javascript + React
 - 📡 HTML + CSS + Tailwind
 - 🖥 Linux
 - 💿 MySQL
