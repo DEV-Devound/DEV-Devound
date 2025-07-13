@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Web Apps**
 
-- 📫 How to reach me **Gmail: dev.devound@gmail.com Discord: Devound#7770**
 
 - 📄 Know about my experiences [Python, Javascript, HTML, CSS, React, Node JS, Tailwind](Python, Javascript, HTML, CSS, React, Node JS, Tailwind)
 
